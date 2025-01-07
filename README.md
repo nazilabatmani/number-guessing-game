@@ -1,5 +1,5 @@
-# number-guessing-game
-A Python-based number guessing game with multiple difficulty levels.
+# number-guessing-game.py
+It is a game ,which you should geuss the number 
 import random
 
 def welcome_message():
